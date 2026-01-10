@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "hono": "https://esm.sh/hono@4.6.14",
+    "hono/": "https://esm.sh/hono@4.6.14/"
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "hono/jsx"
+  }
+}
